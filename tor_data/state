@@ -1,0 +1,24 @@
+# Tor state file last generated on 2012-06-18 23:23:48 local time
+# Other times below are in GMT
+# You *do not* need to edit this file.
+
+EntryGuard dsw2k3 99C353AAA6C3BCEBDEA60C26F41A712F7EC444FF
+EntryGuardAddedBy 99C353AAA6C3BCEBDEA60C26F41A712F7EC444FF 0.2.2.35 2012-06-16 05:55:10
+EntryGuard bmwanon C60AB5E1A17DD1597F4D05DA063A89104ACD8382
+EntryGuardAddedBy C60AB5E1A17DD1597F4D05DA063A89104ACD8382 0.2.2.35 2012-06-06 12:51:34
+TorVersion Tor 0.2.2.35 (git-b04388f9e7546a9f)
+LastWritten 2012-06-18 21:23:48
+TotalBuildTimes 14
+CircuitBuildTimeBin 825 1
+CircuitBuildTimeBin 925 1
+CircuitBuildTimeBin 1425 1
+CircuitBuildTimeBin 1575 1
+CircuitBuildTimeBin 1625 1
+CircuitBuildTimeBin 1825 1
+CircuitBuildTimeBin 1875 1
+CircuitBuildTimeBin 3425 2
+CircuitBuildTimeBin 4075 1
+CircuitBuildTimeBin 4425 1
+CircuitBuildTimeBin 4525 1
+CircuitBuildTimeBin 4575 1
+CircuitBuildTimeBin 4775 1
